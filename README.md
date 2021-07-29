@@ -4,7 +4,7 @@
 <ul>
 <li> 🌱 Now, I'm learning about HTML and CSS </li>
 <li> 📫 How to reach me: yasmin.reiss16@gmail.com </li>
-<li> 📌 Animes, music and a sunset lover.
+<li> 📌 Animes, music, funko pop collector and a sunset lover.
 </ul>
 </h4>
 
